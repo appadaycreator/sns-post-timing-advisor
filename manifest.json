@@ -1,8 +1,9 @@
 {
   "name": "Sns Post Timing Advisor",
   "short_name": "sns-post-tim",
-  "start_url": "/",
+  "start_url": "/sns-post-timing-advisor/",
   "display": "standalone",
   "background_color": "#ffffff",
-  "theme_color": "#6366f1"
+  "theme_color": "#6366f1",
+  "scope": "/sns-post-timing-advisor/"
 }
